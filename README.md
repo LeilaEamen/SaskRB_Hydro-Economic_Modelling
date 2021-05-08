@@ -10,7 +10,7 @@ The codes are written in R version 4.0.3. Required R packages: "Mass","Matrix","
 *************************************************************************************************************************************************************************
 Methodology:
 ---------------
-For the methodology and theoretical information on developing ISIO model, please see: Eamen, L., Brouwer, R., & Razavi, S. (2020). The Economic Impacts of Water Supply Restrictions due to Climate and Policy Change: A Transboundary River Basin Supply-side Input-Output Analysis. Ecological Economics, (172), 106532. doi:10.1016/j.ecolecon.2019.106532
+For the methodology and theoretical information on developing ISIO model, please see: Eamen, L., Brouwer, R., & Razavi, S. (2020). The Economic Impacts of Water Supply Restrictions due to Climate and Policy Change: A Transboundary River Basin Supply-side Input-Output Analysis. Ecological Economics, (172), 106532. https://doi.org/10.1016/j.ecolecon.2019.106532
 
 For the methodology and theoretical information on estimating crop evapotranspiration, please see: Droogers, P., & Allen, R. G. (2002). Estimating reference evapotranspiration under inaccurate data conditions. Irrigation and drainage systems, 16(1), 33-45. https://doi.org/10.1023/A:1015508322413
 
