@@ -1,7 +1,6 @@
 ####################################################################################################################################################
-### Calculating Irrigation Water Demand for the Saskatchewan River Basin (SaskRB) in Western Canada.
+### This is a code tp calculate Irrigation Water Demand for the Saskatchewan River Basin (SaskRB) in Western Canada.
 ### Reference evapotranspiration is calculated using Modified Hargreaves method and calibrated for the SakRB.
-
 ####################################################################################################################################################
 
 #The code is developed by Leila Eamen. Contact: leila.eamen@usask.ca
